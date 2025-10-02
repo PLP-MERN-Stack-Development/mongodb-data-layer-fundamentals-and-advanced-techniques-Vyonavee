@@ -25,7 +25,7 @@ This project demonstrates MongoDB fundamentals including CRUD operations, advanc
 Update the connection string in insert_books.js with your Atlas credentials, then run:
   node insert_books.js
 
-2. Run Queries
+2. Run Queries2. Run Queries
 All MongoDB queries are written in shell syntax in queries.js.
 To test them:
 
